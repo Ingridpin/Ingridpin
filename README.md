@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Ingrid Pinheiro
 
-**`Analista de dados`**
+**`Data Engineer`**
 
 Profissional de tecnologia com mais de 12 anos de experiência em tecnologia, com forte atuação em infraestrutura, monitoramento de sistemas e automação de processos.
 
