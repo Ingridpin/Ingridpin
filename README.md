@@ -74,6 +74,14 @@ Sou movida por desafios, aprendizado contínuo e pela aplicação da tecnologia 
     style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" 
  />
                   
+/>
+<img     
+    align="left" 
+    alt="Jira" 
+    title="Jira"
+    width="30px" 
+    style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg"
+ />
 
 <br/>
 <br/>
