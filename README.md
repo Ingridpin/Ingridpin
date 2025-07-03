@@ -19,6 +19,7 @@ Sou movida por desafios, aprendizado contínuo e pela aplicação da tecnologia 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+
 <img 
     align="left" 
     alt="CSS" 
@@ -27,6 +28,7 @@ Sou movida por desafios, aprendizado contínuo e pela aplicação da tecnologia 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -35,6 +37,7 @@ Sou movida por desafios, aprendizado contínuo e pela aplicação da tecnologia 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Python" 
@@ -43,6 +46,7 @@ Sou movida por desafios, aprendizado contínuo e pela aplicação da tecnologia 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
 <img     align="left" 
     alt="Java" 
     title="Java"
@@ -66,6 +70,7 @@ Sou movida por desafios, aprendizado contínuo e pela aplicação da tecnologia 
     width="30px" 
     style="padding-right: 10px;"         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
 />
+
 <img     
     align="left" 
     alt="DBeaver" 
@@ -74,7 +79,6 @@ Sou movida por desafios, aprendizado contínuo e pela aplicação da tecnologia 
     style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" 
  />
                   
-/>
 <img     
     align="left" 
     alt="Jira" 
