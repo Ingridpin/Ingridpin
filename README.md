@@ -2,7 +2,7 @@
 
 **`Analista de Dados`**
 
-Profissional de tecnologia com mais de 12 anos de experiência em tecnologia, com forte atuação em infraestrutura, monitoramento de sistemas e automação de processos.
+Mais de 12 anos de experiência em tecnologia, com forte atuação em infraestrutura, monitoramento de sistemas e automação de processos.
 
 Nos últimos anos, venho me especializando em dados e inteligência artificial, com foco em ciência de dados, inferência causal e cloud computing. Tenho formação em Análise e Desenvolvimento de Sistemas pela FIAP e diversas certificações em AWS, DevOps, Python, Power BI e Google Cloud AI.
 
